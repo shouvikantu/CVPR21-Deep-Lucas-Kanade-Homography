@@ -1,5 +1,5 @@
 # Datasets ~15GB
-datasets/
+Dataset/
 
 # Checkpoints
 model_ours/checkpoints
