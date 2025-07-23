@@ -4,3 +4,5 @@ Dataset/
 # Checkpoints
 model_ours/checkpoints
 
+#warped_images
+model_ours/working_code/warped_frames
