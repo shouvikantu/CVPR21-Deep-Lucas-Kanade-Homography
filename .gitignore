@@ -1,0 +1,6 @@
+# Datasets ~15GB
+datasets/
+
+# Checkpoints
+model_ours/checkpoints
+
