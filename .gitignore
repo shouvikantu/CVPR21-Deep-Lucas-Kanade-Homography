@@ -5,4 +5,5 @@ Dataset/
 model_ours/checkpoints
 
 #warped_images
-model_ours/working_code/warped_frames
+model_ours/working_code/warped_frames/
+model_ours/working_code/cat_warped/
